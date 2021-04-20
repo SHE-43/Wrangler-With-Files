@@ -64,24 +64,7 @@ all.to_excel(excel_write, sheet_name="Sheet 1", index=False)
 excel_write.save()
 
 
-# Merge the excel scrape project with this one and then apply some tricks from Python over to Excel
-# Stuff like centre align, pytz, add country of sale, then convert it.
-# Make reports by first converting the data to required state.
-# Use scraping to get the name involved as well.
-# Then just bring the instructions of the previous one over here.
-# VBA from here to there
-# Regex cook book.
-# Saving this data as XML or JS.
-# Pandas cook book goes with this one.
-# NLP will be next step in Wrangling
-# SO main focuses are HTML and CSS, JS, JSON, Scraping, Wrangling cookbook, Python Advanced Nested, Java APIs or Servers (From scratch)
-# COnvert project.py into modular and marked
-# Add all tricks learned to there as well
-# Make new project.py part 2
-# Send all clever programs to GitHub stating how they help the world
-# Folder challenges
-# Logging very advaned and extracting from complex notepad files
-# Turning programs into apps.
+
 
 
 
